@@ -1,0 +1,1 @@
+Our grocery store operates across multiple channels but struggles with low and inconsistent campaign engagement, making marketing optimization challenging. We aim to leverage ML and data-driven insights to enhance engagement, improve the shopping experience, and boost sales.
